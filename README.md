@@ -1,46 +1,78 @@
-# 👋 Hi, I'm Harshit Baroliya
+# 👋 Hi, I'm Harshit Baroliya  
 
-💻 Backend-Oriented Developer | 🧠 Logic Builder | ⚙️ Automation Enthusiast  
-🚀 I build systems that work — not just look good
-
----
-
-## 🧠 About Me
-- 🔹 Focused on **JavaScript console logic & backend workflows**
-- 🔹 Love writing **clean, logical, scalable code**
-- 🔹 Enjoy **automation, system behavior & probability logic**
-- 🔹 Believe in learning by building real things
+💻 Backend Developer | 🤖 AI Systems Builder | 🧠 Logic Architect  
+🚀 I build intelligent backend systems that think, adapt, and scale  
 
 ---
 
-## 🛠️ Tech Stack
-- 🟨 **JavaScript** (Console logic, backend fundamentals)
-- 🐍 **Python** (Automation, scripting, logic)
-- ⚙️ **Backend Concepts** (APIs, flows, data handling)
-- 🧠 **Algorithms & Problem Solving**
+## 🧠 About Me  
+
+Backend-oriented developer with strong expertise in Python and JavaScript (Node.js).  
+I specialize in building scalable backend systems, AI integrations, and automation solutions.  
+Passionate about writing clean, logical code and developing intelligent systems with real-world applications.
 
 ---
 
-## ⚡ What I’m Working On
-- 🔁 Automation scripts & logic engines  
-- 🎯 Backend-driven projects  
-- 🧪 JS & Python experiments  
-- 🤖 Smart systems using AI-assisted coding  
+## 🛠️ Tech Stack  
+
+### 💻 Programming Languages  
+- Python  
+- JavaScript (Node.js)  
+
+### ⚙️ Backend & APIs  
+- FastAPI  
+- RESTful API Development  
+- API Integration & Handling  
+- Subprocess Communication  
+
+### 🤖 AI / ML  
+- LLM Integration  
+- RAG (Retrieval-Augmented Generation)  
+- LangChain  
+- AI-Powered Systems  
+
+### 🗄️ Database & Tools  
+- SQL  
+- Git & GitHub  
+- NumPy  
 
 ---
 
-## 🔥 Project Interests
-- 🧠 Logic-based engines  
-- 🎰 Probability & game mechanics  
-- ⚙️ Automation tools  
-- 🌐 Backend-first applications  
+## 🔥 Featured Project  
+
+### 🎰 AI-Powered Roulette Engine  
+
+An intelligent roulette simulation system integrating a Node.js backend with a Python AI service for real-time decision-making and pattern analysis.
+
+**Key Highlights:**
+
+- Hybrid architecture connecting Node.js engine with Python AI service  
+- Entropy-based pattern detection algorithm  
+- Adaptive probability weighting system (15%+ bias strength)  
+- Real-time JSON-based inter-process communication  
+- Statistical modeling using NumPy  
+- AI-driven bias recommendations with confidence scoring  
+
+**Technologies Used:**  
+Python, Node.js, NumPy, JSON, Subprocess Communication, Statistical Analysis  
 
 ---
 
-## 🌐 Connect With Me
-- 📧 Email: *Radhakrishna1kr@gmail.com*
-- 💼 LinkedIn: **
+## 🎯 Core Competencies  
+
+- Algorithm Design  
+- Backend System Architecture  
+- Automation & Process Optimization  
+- Probability & Statistical Modeling  
+- AI System Integration  
 
 ---
 
-⭐ Follow my journey — more powerful projects coming soon.
+## 🌐 Connect With Me  
+
+📧 Email: Radhakrishna1kr@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/harshit-baroliya-sawariyaseth  
+
+---
+
+⭐ Building logic-driven backend systems with AI integration.

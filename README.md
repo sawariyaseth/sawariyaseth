@@ -70,7 +70,7 @@ Python, Node.js, NumPy, JSON, Subprocess Communication, Statistical Analysis
 
 ## 🌐 Connect With Me  
 
-📧 Email: Radhakrishna1kr@gmail.com  
+📧 Email: Harshitharshit32331@gmail.com 
 💼 LinkedIn: https://www.linkedin.com/in/harshit-baroliya-sawariyaseth  
 
 ---
